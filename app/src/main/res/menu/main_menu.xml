@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Self Assesment"
+        android:id="@+id/selfAssesment"></item>
+
+    <item android:title="Our Therapists"
+        android:id="@+id/our_therapists"></item>
+
+    <item android:title="Area of Expertise "
+        android:id="@+id/Area_of_Expertse"></item>
+
+    <item android:title="Chat with the executives"
+        android:id="@+id/chat"></item>
+
+
+    <item android:title="Logout"
+        android:id="@+id/Logout"></item>
+
+</menu>

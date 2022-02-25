@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".AddictionResult">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/welldoneimage" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50sp"
+        android:elevation="20sp"
+        app:cardBackgroundColor="@color/skyblue"
+        app:cardCornerRadius="15sp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="No need to worry , your husband loves you a lot.You know this whole app idea was just because i wanted you to tell that we can make it fine together and you know life with you has been a heaven when you act free and love me with all that potential, passion and care  and all of this is worthy and i can do anything when i have you with me;All this fight ,this disagreements and don't worry we cn fix anything which comes in the way.To my love of life I LOVE !! and i am with you in all the odds. just be focused on what you have and what you have to do... "
+                android:textSize="18sp"/>
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+
+
+</LinearLayout>

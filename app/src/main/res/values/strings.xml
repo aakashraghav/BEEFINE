@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">7s3CX9iAdpRS6s9AO68OfCxP3nEHjo2PrkP3PKrb</string>
+    <string name="back4app_client_key">7OYYRqcPtQUv6n18VIXGlHWJJyU5tdcHalbrap2s</string>
+
+    <string name="StressDetails">Stress is a normal physical, psychological and behavioural response to high-pressure situations/ internal or external stressors. Stress affects nearly every system of the body. It influences how people feel and behave. Stress causes various mind-body changes such as augmentation of negative emotions, shortness of breath, increased duration of fatigue. Thus, stress can contribute directly to psychological and physiological disorders which in turn affects mental and physical well-being and reduce quality of life</string>
+    <string name="OCDDetails">People suffering from OCD engage in repetitive behaviors without realizing or being able to resist them. It is one of the four most common mental health disorders. It can interfere with daily life activities and needs medical attention. OCD is a combination of obsession and compulsion where;
+
+Obsessions are unwelcome, intrusive and persistent concepts, feelings, desires, or images that trigger severe distress.
+
+Compulsions are unnecessary repetitive behaviour habits or mental actions that are done in order to alleviate discomfort rather than to offer satisfaction or gratification.</string>
+
+    <string name="AnxietyDetails">Anxiety is described by intense fear, worry or unease. Continuously untreated leads to medical issues, a lessened feeling of prosperity and changes ones conduct for the more awful. </string>
+    <string name="AngerDetails">Anger is a human emotion, which at times is used interchangeably with aggression or violence. While anger is an emotion/feeing, aggression is a behavior and violence is a physical outburst, with the intent to hurt somebody and destroy a property. If not controlled or managed well, it could adversely affect relationships, career and even physical and mental health. </string>
+</resources>
